@@ -1,12 +1,12 @@
 @echo off
 echo ==================================================
-echo       GENERADOR DE REPORTES MENSUALES - YECK
+echo         GENERADOR DE REPORTES MENSUALES
 echo ==================================================
 echo.
 echo Iniciando el procesamiento del Excel...
 echo.
 
-call .venv\Scripts\activate.bat
+call .venv\Scripts\activate.bat 
 python fromexceltoword.py
 
 echo.
