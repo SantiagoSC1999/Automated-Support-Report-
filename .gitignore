@@ -1,0 +1,19 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Variables de entorno y secretos
+.env
+
+# Archivos de caché
+__pycache__/
+*.pyc
+
+# Datos y salidas (No subir datos de la empresa a GitHub)
+inputs/*.xlsx
+inputs/*.png
+outputs/
+
+# VS Code
+.vscode/

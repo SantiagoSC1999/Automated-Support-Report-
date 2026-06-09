@@ -1,0 +1,44 @@
+{
+  "target_items": [
+    {
+      "key": "marlo_aiccra",
+      "name": "MARLO-AICCRA"
+    },
+    {
+      "key": "reporting_tool",
+      "name": "PRMS Reporting Tool"
+    },
+    {
+      "key": "risk_module",
+      "name": "Risk Module"
+    },
+    {
+      "key": "star",
+      "name": "STAR"
+    },
+    {
+      "key": "planning_module",
+      "name": "Planning Module"
+    },
+    {
+      "key": "result_dashboard",
+      "name": "PRMS Result Dashboard"
+    },
+    {
+      "key": "clarisa",
+      "name": "CLARISA"
+    },
+    {
+      "key": "qa_platform",
+      "name": "QA platform"
+    },
+    {
+      "key": "theory_of_change",
+      "name": "Theory Of Change Board(TOC)"
+    },
+    {
+      "key": "other",
+      "name": "Other"
+    }
+  ]
+}
