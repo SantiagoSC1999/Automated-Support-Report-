@@ -68,7 +68,19 @@ Export your tickets to an `.xlsx` format and drop it in the `inputs/` folder. Th
 
 ## Usage 💻
 
-Run the script from your terminal:
+### Option A — Web App (recommended) 🖥️
+
+Launch the app (double-click `Generar_App.bat`, or run manually):
+
+```bash
+streamlit run app.py
+```
+
+It opens in your browser. Upload the Excel export, click **Generar reporte**, watch the progress, and download the finished Word document straight from the page.
+
+### Option B — Command line
+
+Run the script from your terminal (auto-detects the newest `.xlsx` in `inputs/`):
 
 ```bash
 python fromexceltoword.py

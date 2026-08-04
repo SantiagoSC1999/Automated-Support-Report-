@@ -39,6 +39,10 @@
     {
       "key": "other",
       "name": "Other"
+    },
+    {
+      "key": "bilateral_registry",
+      "name": "Bilateral Registry"
     }
   ]
 }
